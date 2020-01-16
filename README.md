@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+ ### 预览页
+ > https://volodya-01.github.io/-vue2_canvas_components_preview/
+
+
 ## Build Setup
 
 ``` bash
