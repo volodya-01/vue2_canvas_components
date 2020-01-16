@@ -1,4 +1,4 @@
-# vue_swiper_g2_demo
+# vue2_canvas_圆盘 
 
 > A Vue.js project
 
